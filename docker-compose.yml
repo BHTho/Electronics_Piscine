@@ -1,0 +1,18 @@
+
+version: "3.9"
+
+services:
+  kicad:
+    image: ghcr.io/linuxserver/kicad:latest
+    container_name: kicad
+    environment:
+      - PUID=1000
+      - PGID=1000
+    volumes:
+      - ./config:/config
+      - ./projects:/projects
+    ports:
+      - 8080:3000   # noVNC web interface
+      - 5901:5900   # VNC optional
+    restart: unless-stopped
+
