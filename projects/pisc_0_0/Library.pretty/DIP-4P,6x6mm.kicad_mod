@@ -1,0 +1,166 @@
+(footprint "DIP-4P,6x6mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "DIP-4P,6x6mm"
+		(at 3.2 7.22 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "748ebd6d-9069-46ea-add3-33d11a67fa8b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "DIP-4P,6x6mm"
+		(at 3.2 8.72 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a1e81aa0-6b79-40ce-bee7-084a3d767dbd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "662f09e6-899d-4255-9a2e-d2bc2d934ca7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4ec56b3e-f312-4857-ae41-be080114f269")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 1.845 -1.31)
+		(end 4.495 -1.31)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "cd6751ef-19c0-440c-9661-1402fdb3471a")
+	)
+	(fp_line
+		(start 1.965 5.85)
+		(end 4.615 5.85)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2a8a01ad-5344-403f-b4bb-1cd862791a75")
+	)
+	(fp_rect
+		(start -1.67 -1.68)
+		(end 8.06 6.13)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "736105fe-4e52-4195-8ece-4fdd8dc0a94f")
+	)
+	(fp_rect
+		(start 0.22 -0.75)
+		(end 6.22 5.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "fc1bfd55-519e-46a7-b5b5-d317455a9914")
+	)
+	(fp_circle
+		(center 3.296887 2.335)
+		(end 2.136887 1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "4d2e0d3d-ea7a-4f44-9c54-44867cdf3509")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 3.2 10.22 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "75c90518-65dc-4429-ba46-884aaa431d85")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2 2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9f05e4cd-d3a6-4c97-a647-568f1e8385af")
+	)
+	(pad "2" thru_hole circle
+		(at 6.5 0)
+		(size 2 2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3ca37eab-b047-43cb-8386-6e3b430127a6")
+	)
+	(pad "3" thru_hole circle
+		(at 6.5 4.5)
+		(size 2 2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2a5bb472-f4fc-4578-a7f1-f9e170e8122b")
+	)
+	(pad "4" thru_hole circle
+		(at 0 4.5)
+		(size 2 2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "61f38b15-f521-42e5-9e58-2529a9dafa30")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

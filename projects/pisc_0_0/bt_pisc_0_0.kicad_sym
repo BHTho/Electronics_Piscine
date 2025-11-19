@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:crys_osc_smd3225_4"
 			(at 0 0 0)
 			(effects
 				(font
@@ -218,7 +218,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:ATMEGA328P-AU"
 			(at 0 0 0)
 			(effects
 				(font
@@ -807,7 +807,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -923,7 +923,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:0603"
 			(at -5.08 -10.16 0)
 			(effects
 				(font
@@ -1035,7 +1035,7 @@
 						)
 					)
 				)
-				(number "1"
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1053,7 +1053,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number "1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1272,7 +1272,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1375,7 +1375,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:TS_3225"
 			(at 0 0 0)
 			(effects
 				(font

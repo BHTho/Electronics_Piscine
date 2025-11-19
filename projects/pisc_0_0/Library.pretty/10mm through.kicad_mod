@@ -1,0 +1,109 @@
+(footprint "10mm through"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.14 3.28 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "21962008-c04c-43c3-8bc8-f5b72818896f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "10mm_t"
+		(at 0.03 2.75 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "dc887610-eb16-419f-b94b-8882c3d8aacc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "84fd79e9-a647-4a18-9993-f5d46046c3ea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c69eefa6-5920-4d14-abdb-e124f9ca58fc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -1.365 -1.42)
+		(end 11.365 1.42)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "96943032-6f7b-43dd-b72e-4dc328e7ef3a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.03 4.25 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "468c3b1f-f875-4ffb-b49b-31e32641d380")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.905 1.905)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ac13a97b-b01d-47f0-984d-4b894ebe75c1")
+	)
+	(pad "2" thru_hole circle
+		(at 10 0)
+		(size 1.905 1.905)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ebdfdab4-87b7-4199-a352-8b1c0ed7ff99")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
