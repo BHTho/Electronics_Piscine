@@ -3837,6 +3837,72 @@
 		)
 	)
 	(symbol
+		(lib_id "bt_pisc_0_0:VCC")
+		(at 35.56 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0810356e-5611-475e-bf5e-a0b85008af3d")
+		(property "Reference" "#PWR04"
+			(at 35.56 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 35.56 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 35.56 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 35.56 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 35.56 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "82abe761-d9f4-44bd-8dc5-05236c20f897")
+		)
+		(instances
+			(project "piscine_0_0"
+				(path "/337afcc5-ee66-4aad-a19d-458556392e8e"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "bt_pisc_0_0:GND")
 		(at 110.49 45.72 0)
 		(unit 1)
@@ -3967,73 +4033,6 @@
 			(project ""
 				(path "/337afcc5-ee66-4aad-a19d-458556392e8e"
 					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "bt_pisc_0_0:GND")
-		(at 35.56 78.74 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0d51fe9e-23fe-4ada-a87a-8140ec9ab35b")
-		(property "Reference" "#PWR04"
-			(at 35.306 71.374 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 35.56 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 35.56 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 35.56 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 35.56 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "53164073-bced-47e5-8764-a2ed49c1bdc7")
-		)
-		(instances
-			(project ""
-				(path "/337afcc5-ee66-4aad-a19d-458556392e8e"
-					(reference "#PWR04")
 					(unit 1)
 				)
 			)
