@@ -348,12 +348,12 @@
 		(roundrect_rratio 0.15)
 		(uuid "99735e5d-ef32-4d0b-b282-379b041daf73")
 	)
-	(pad "25 " smd roundrect
+	(pad "25" smd roundrect
 		(at 2.775 -4.25 90)
 		(size 1.6 0.55)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(uuid "97e04da2-5da9-4988-9890-6ab4e30fd3ec")
+		(uuid "8b8879ee-1d60-4d4e-998a-1e986a758c22")
 	)
 	(pad "26" smd roundrect
 		(at 1.975 -4.25 90)
@@ -405,7 +405,7 @@
 		(uuid "e13e3ede-af68-40ea-8d88-1ec07ed0906f")
 	)
 	(embedded_fonts no)
-	(model "/home/student/Downloads/ATMEGA328P_AU(2)/TQFP32_32A_MCH.step"
+	(model "/home/kicad/projects/TQFP32_32A_MCH.step"
 		(offset
 			(xyz 0 0 0)
 		)

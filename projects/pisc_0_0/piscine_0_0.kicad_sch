@@ -25,7 +25,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Library:crys_osc_smd3225_4"
 				(at 0 0 0)
 				(effects
 					(font
@@ -221,7 +221,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Library:ATMEGA328P-AU"
 				(at 0 0 0)
 				(effects
 					(font
@@ -810,7 +810,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Library:0603"
 				(at 0 0 0)
 				(effects
 					(font
@@ -926,7 +926,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Library:0603"
 				(at -5.08 -10.16 0)
 				(effects
 					(font
@@ -1275,7 +1275,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Library:0603"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1378,7 +1378,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Library:TS_3225"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1625,7 +1625,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Library:12pin_gpio"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1905,7 +1905,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Library:6pin_gpio"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3996,7 +3996,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:0603"
 			(at 105.41 53.34 0)
 			(effects
 				(font
@@ -4130,7 +4130,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:0603"
 			(at 156.21 44.45 0)
 			(effects
 				(font
@@ -4332,7 +4332,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:0603"
 			(at 54.61 40.64 0)
 			(effects
 				(font
@@ -4532,7 +4532,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:TS_3225"
 			(at 173.99 40.64 0)
 			(effects
 				(font
@@ -4600,7 +4600,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:0603"
 			(at 153.67 100.33 0)
 			(effects
 				(font
@@ -4668,7 +4668,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:crys_osc_smd3225_4"
 			(at 140.97 119.38 0)
 			(effects
 				(font
@@ -4808,7 +4808,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:0603"
 			(at 158.75 130.81 0)
 			(effects
 				(font
@@ -4942,7 +4942,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:6pin_gpio"
 			(at 256.54 134.62 0)
 			(effects
 				(font
@@ -5024,7 +5024,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:0603"
 			(at 41.91 40.64 0)
 			(effects
 				(font
@@ -5224,7 +5224,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:0603"
 			(at 44.45 85.09 0)
 			(effects
 				(font
@@ -5294,7 +5294,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:0603"
 			(at 114.3 35.56 0)
 			(effects
 				(font
@@ -5431,7 +5431,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:12pin_gpio"
 			(at 231.14 123.19 0)
 			(effects
 				(font
@@ -5531,7 +5531,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:0603"
 			(at 191.77 36.83 0)
 			(effects
 				(font
@@ -5667,7 +5667,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:ATMEGA328P-AU"
 			(at 69.85 128.27 0)
 			(effects
 				(font
@@ -5818,7 +5818,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:0603"
 			(at 64.77 48.26 0)
 			(effects
 				(font
@@ -5888,7 +5888,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:0603"
 			(at 73.66 48.26 0)
 			(effects
 				(font
@@ -6025,7 +6025,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:12pin_gpio"
 			(at 204.47 120.65 0)
 			(effects
 				(font

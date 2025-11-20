@@ -1375,7 +1375,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:TS_3225"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1622,7 +1622,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:12pin_gpio"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1902,7 +1902,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:6pin_gpio"
 			(at 0 0 0)
 			(effects
 				(font
