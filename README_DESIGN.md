@@ -87,3 +87,13 @@ Pinout for J2 (right-gpio):
 | 11         |          | RXI     |
 | 12         |          | TX0     |
 
+Pinout for J3 (bottom-gpio):
+
+| Pin number | Pin name | Pin net |
+|------------|----------|---------|
+| 1          |          | DTR     |
+| 2          |          | TX0     |
+| 3          |          | RXI     |
+| 4          |          | RAW     |
+| 5          |          | GND     |
+| 6          |          | GND     |
