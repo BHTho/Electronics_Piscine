@@ -405,7 +405,7 @@
 		(uuid "e13e3ede-af68-40ea-8d88-1ec07ed0906f")
 	)
 	(embedded_fonts no)
-	(model "/home/kicad/projects/TQFP32_32A_MCH.step"
+	(model "/home/student/Downloads/ATMEGA328P_AU(2)/TQFP32_32A_MCH.step"
 		(offset
 			(xyz 0 0 0)
 		)
